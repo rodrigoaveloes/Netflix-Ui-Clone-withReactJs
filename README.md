@@ -10,8 +10,7 @@
 
 <img src="https://i.imgur.com/9NZU4cm.png" title="source: imgur.com" />
 <img src="https://i.imgur.com/vA6NMFL.png" title="source: imgur.com" />
-<img src="https://i.imgur.com/5Rxi9I0.png" title="source: imgur.com" />
-<img src="https://i.imgur.com/x9EprUm.png" title="source: imgur.com" />
+<img src="https://i.imgur.com/5Rxi9I0.png" title="source: imgur.com" /><img src="https://i.imgur.com/x9EprUm.png" title="source: imgur.com" />
 
 
 
