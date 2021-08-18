@@ -43,7 +43,7 @@ Para instalar o <Netflix-Ui-Clone-withReactJs>, siga estas etapas:
   <a href="https://www.linkedin.com/in/rodrigo-avel%C3%B5es-de-paulo-a4a560208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
     
     
-  ### adicionado responsividade 📱
+
     
     <img src="https://i.imgur.com/5Rxi9I0.png" title="source: imgur.com" />
     <img src="https://i.imgur.com/x9EprUm.png" title="source: imgur.com" />
