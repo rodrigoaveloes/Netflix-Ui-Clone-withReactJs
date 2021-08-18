@@ -33,12 +33,10 @@ Para instalar o <Netflix-Ui-Clone-withReactJs>, siga estas etapas:
   
 2. instale as dependências pelo terminal através do comando: yarn ou npm 
   
-3. Por último yarn start ou npm start
+3. Por último yarn start ou npm start 💖
   
  
-💖
-  
-     ### adicionado responsividade 📱
+  ### adicionado responsividade 📱
     
  <img src="https://i.imgur.com/x9EprUm.png" title="source: imgur.com" />
   <img src="https://i.imgur.com/5Rxi9I0.png" title="source: imgur.com" />
